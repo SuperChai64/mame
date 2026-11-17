@@ -3012,6 +3012,6 @@ ROM_END
 } // anonymous namespace
 
 
-GAME( 2002, specfrce,  0,        vp101, specfrce, vp10x_state, empty_init, ROT0, "ICE / Play Mechanix", "Special Forces Elite Training (v01.02.00)", MACHINE_NOT_WORKING )
-GAME( 2002, specfrceo, specfrce, vp101, specfrce, vp10x_state, empty_init, ROT0, "ICE / Play Mechanix", "Special Forces Elite Training (v01.01.01)", MACHINE_NOT_WORKING )
-GAME( 2004, jnero,     0,        vp101, jnero,    vp10x_state, empty_init, ROT0, "ICE / Play Mechanix", "Johnny Nero Action Hero (v01.01.08)",       MACHINE_NOT_WORKING )
+GAME( 2002, specfrce,  0,        vp101, specfrce, vp10x_state, empty_init, ROT0, "ICE / Play Mechanix", "Special Forces Elite Training (v01.02.00)", MACHINE_NOT_WORKING | MACHINE_IMPERFECT_GRAPHICS )
+GAME( 2002, specfrceo, specfrce, vp101, specfrce, vp10x_state, empty_init, ROT0, "ICE / Play Mechanix", "Special Forces Elite Training (v01.01.01)", MACHINE_NOT_WORKING | MACHINE_IMPERFECT_GRAPHICS )
+GAME( 2004, jnero,     0,        vp101, jnero,    vp10x_state, empty_init, ROT0, "ICE / Play Mechanix", "Johnny Nero Action Hero (v01.01.08)",       MACHINE_NOT_WORKING | MACHINE_IMPERFECT_GRAPHICS )
